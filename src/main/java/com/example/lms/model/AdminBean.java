@@ -5,6 +5,7 @@ public class AdminBean {
 	private String name;
 	private String email;
 private String gender;
+private int age;
 }
 
 
