@@ -9,6 +9,7 @@ private int age;
 private String address;
 private int dob;
 private String ginger;
+private Integer id;
 }
 
 
