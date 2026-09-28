@@ -1,0 +1,5 @@
+package com.example.lms.mapper;
+
+public class UserRowMapper {
+
+}
