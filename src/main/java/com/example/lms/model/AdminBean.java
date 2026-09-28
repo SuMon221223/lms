@@ -8,10 +8,12 @@ import lombok.Setter;
 public class AdminBean {
 
 	private Integer id;
-	private String name;
+	private String full_name;
 	private String email;
-	private String gender;
+	private String name;
 	private int age;
+	private String password;
+	private String gender;
 	private String address;
 	
 }
